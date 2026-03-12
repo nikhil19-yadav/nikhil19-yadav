@@ -2,41 +2,44 @@
 <h3 align="center">Aspiring Software Developer | B.Tech IT Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Web+Developer;DSA+Enthusiast;Open+Source+Learner">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Web+Developer;Computer+Vision+Enthusiast;DSA+Learner">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🔭 I’m currently working on **Full Stack Web Development and improving DSA skills**
+🔭 I’m currently working on **Full Stack Development and Computer Vision Projects**
 
-🌱 I’m currently learning **Backend Development, APIs, and Computer Vision**
+🌱 I’m currently learning **Advanced DSA, Backend Development, and AI**
 
-👯 I’m looking to collaborate on **Open Source Web Development Projects**
+👯 I’m looking to collaborate on **Open Source Projects**
 
-🤝 I’m looking for help with **Advanced Backend Development and System Design**
+🤝 I’m looking for help with **System Design and Scalable Backend**
 
-💬 Ask me about **Python, Web Development, DSA, and Computer Vision**
+💬 Ask me about **Python, Web Development, Computer Vision**
 
-⚡ Fun fact: **I enjoy building creative projects and solving coding challenges**
+⚡ Fun fact: **I enjoy building AI-based real world projects**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/nikhil-yadav-5b324330a">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40">
 </a>
+
 <a href="https://github.com/nikhil19-yadav">
 <img src="https://skillicons.dev/icons?i=github" height="40">
 </a>
+
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
@@ -49,12 +52,80 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=opencv" />
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+## 🚗 Driver Drowsiness Detection System
+Detects driver fatigue using real-time webcam monitoring.
+
+**Technologies Used**
+- Python
+- OpenCV
+- Dlib
+- Computer Vision
+- Haar Cascade Classifier
+
+**Features**
+- Real-time eye detection
+- Drowsiness alert system
+- Live webcam monitoring
+
+---
+
+## 🚨 Threat Detection System
+Detects potential threats such as **drones or suspicious devices** using camera input.
+
+**Technologies Used**
+- Python
+- OpenCV
+- Deep Learning
+- Image Processing
+- Object Detection
+
+**Features**
+- Live image capture
+- Object detection
+- Threat identification
+
+---
+
+## 🛒 TrendHive – E-Commerce Website
+
+**Technologies Used**
+- HTML
+- CSS
+- JavaScript
+- JWT
+- Bcrypt
+
+**Features**
+- Secure login & authentication
+- Product browsing
+- Shopping cart
+- Order placement
+
+---
+
+## 🧩 Virtual Sudoku Solver
+
+**Technologies Used**
+- Python
+- OpenCV
+- Computer Vision
+
+**Features**
+- Hand gesture recognition
+- Touchless number input
+- Real-time webcam control
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -64,7 +135,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -74,7 +145,7 @@
 
 ---
 
-## 📈 Top Languages
+# 📈 Top Languages
 
 <p align="center">
 
@@ -84,32 +155,10 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 Achievements
 
-### 🛒 TrendHive – E-Commerce Website
-• Secure authentication using **JWT & bcrypt**  
-• Product browsing and cart management  
-• Responsive UI  
-
-### 🧩 Virtual Sudoku Solver
-• Gesture-based Sudoku solver  
-• Computer vision using webcam  
-• Touchless number input  
+⭐ 5 Star Problem Solving Badge – HackerRank
 
 ---
 
-## 🏆 Achievements
-
-⭐ **5 Star Problem Solving Badge – HackerRank**
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-⭐️ From [Nikhil Yadav](https://github.com/nikhil19-yadav)
+⭐ From [Nikhil Yadav](https://github.com/nikhil19-yadav)
