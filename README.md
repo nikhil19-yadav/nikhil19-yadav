@@ -1,66 +1,71 @@
-<!-- Header SVG - renders natively on GitHub -->
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=%F0%9F%91%8B+Hi%2C+I'm+Nikhil+Yadav" alt="Nikhil Yadav"/>
+</p>
 
-<svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="180" rx="16" fill="url(#bg)"/>
-  <text x="430" y="75" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle">Nikhil Yadav</text>
-  <text x="430" y="115" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#a78bfa" text-anchor="middle">Software Developer · AI &amp; Computer Vision Engineer</text>
-  <text x="430" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">B.Tech IT · PSIT Kanpur · 2023–2027 · Kanpur, India 🇮🇳</text>
-</svg>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Software+Developer+%E2%80%A2+AI+%26+Computer+Vision+Engineer+%E2%80%A2+Full+Stack+Builder" alt="Role"/>
+</p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-yadav-5b324330a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k23.it2310753@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil19-yadav)
-![Profile Views](https://komarev.com/ghpvc/?username=nikhil19-yadav&label=Profile+Views&color=7c3aed&style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=620&lines=Python+%7C+Computer+Vision+Engineer;Full+Stack+Web+Developer;YOLOv8+%7C+OpenCV+%7C+MediaPipe;HackerRank+5+%E2%98%85+Problem+Solver;Open+to+SDE+Internships+%F0%9F%9A%80" alt="Typing"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```python
-class NikhilYadav:
-    def __init__(self):
-        self.name       = "Nikhil Yadav"
-        self.role       = "Aspiring SDE | AI & Computer Vision Engineer"
-        self.education  = "B.Tech IT @ PSIT Kanpur (2023–2027)"
-        self.location   = "Kanpur, Uttar Pradesh, India 🇮🇳"
-        self.languages  = ["Python", "Java", "JavaScript", "HTML", "CSS"]
-        self.interests  = ["Computer Vision", "AI Systems", "Full Stack", "DSA"]
-        self.currently  = "Building real-world AI applications"
-        self.goal       = "SDE role at a top product company"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing 🚀")
-
-me = NikhilYadav()
-me.say_hi()
-```
-
-- 🔭 Building AI-powered security & safety systems
-- 🌱 Learning advanced DSA, System Design & Cloud fundamentals
+- 🔭 Currently building **AI Surveillance & real-time Computer Vision systems**
+- 🌱 Learning **Advanced DSA, System Design & Cloud fundamentals**
 - ⭐ HackerRank **5-Star Problem Solver**
-- 💬 Ask me about **Computer Vision · Python · Full Stack Dev**
-- 📫 **2k23.it2310753@gmail.com**
-- ⚡ Built a threat detection system using YOLOv8 + WiFi/Bluetooth scanning before finishing 2nd year
+- 🤖 Oracle Certified **Generative AI Professional**
+- 💬 Ask me about **Python · Computer Vision · Full Stack Dev**
+- 📫 Reach me at **2k23.it2310753@gmail.com**
+- ⚡ Built a threat detection system using YOLOv8 + WiFi/Bluetooth scanning — before finishing 2nd year
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/nikhil-yadav-5b324330a">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;
+<a href="https://github.com/nikhil19-yadav">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+&nbsp;
+<a href="mailto:2k23.it2310753@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔍 [AI Surveillance & Threat Detection System](https://github.com/nikhil19-yadav/AI-Surveillance-System)
-
 > Real-time AI-powered security system with multi-channel threat analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -76,7 +81,6 @@ me.say_hi()
 ---
 
 ### 😴 [Driver Drowsiness Detection](https://github.com/nikhil19-yadav/Driver-Drowsiness-Detection)
-
 > ADAS-inspired real-time driver safety alert system
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -91,7 +95,6 @@ me.say_hi()
 ---
 
 ### 🧩 [Virtual Sudoku Solver](https://github.com/nikhil19-yadav/virtual-sudoku-solver)
-
 > Solve any Sudoku puzzle in real-time using just your camera
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -101,12 +104,11 @@ me.say_hi()
 - 📸 Live camera grid detection + digit recognition pipeline
 - 🧠 MediaPipe hand tracking for gesture-based interaction
 - ✅ Solution overlaid on live camera feed in real time
-- 🔢 Backtracking algorithm guarantees solution for any valid puzzle
+- 🔢 Backtracking algorithm guarantees a solution for any valid puzzle
 
 ---
 
-### 🛒 [TrendHive — E-Commerce Platform](https://github.com/nikhil19-yadav/trendhive-ecommerce)
-
+### 🛒 [TrendHive – E-Commerce Platform](https://github.com/nikhil19-yadav/trendhive-ecommerce)
 > Full-stack e-commerce web application with secure authentication
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -116,61 +118,28 @@ me.say_hi()
 
 - 🔐 JWT + bcrypt secure authentication (OWASP compliant)
 - 🛍️ Product catalogue, cart management & order flow
-- 📱 Fully responsive, mobile-first UI built from scratch
+- 📱 Fully responsive, mobile-first UI
 - 🗄️ Optimised MySQL schema with referential integrity
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikhil19-yadav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil19-yadav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil19-yadav&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil19-yadav&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhil19-yadav&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nikhil19-yadav&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-| Badge | Achievement |
-|-------|-------------|
+| 🏅 | Achievement |
+|---|---|
 | ⭐⭐⭐⭐⭐ | HackerRank — 5 Stars, Problem Solving |
 | 🤖 | Oracle — Generative AI Professional |
 | 🗄️ | HackerRank — SQL Advanced Certified |
@@ -179,12 +148,9 @@ me.say_hi()
 
 ---
 
-<div align="center">
+<p align="center">
+  <b>💼 Open to SDE internships and full-time opportunities</b><br/>
+  <i>Hiring or want to collaborate? Let's connect!</i>
+</p>
 
-**💼 Open to internship and full-time SDE opportunities**
-
-*Hiring or want to collaborate? Let's connect!*
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-yadav-5b324330a)
-
-</div>
+<p align="center">⭐ From <a href="https://github.com/nikhil19-yadav">Nikhil Yadav</a></p>
