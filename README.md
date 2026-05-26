@@ -1,13 +1,19 @@
+<h1 align="center">👋 Hi, I'm Nikhil Yadav</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=%F0%9F%91%8B+Hi%2C+I'm+Nikhil+Yadav" alt="Nikhil Yadav"/>
+  <b>🤖 AI & Computer Vision Engineer &nbsp;·&nbsp; 🌐 Full Stack Developer &nbsp;·&nbsp; 🎯 Aspiring SDE</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Software+Developer+%E2%80%A2+AI+%26+Computer+Vision+Engineer+%E2%80%A2+Full+Stack+Builder" alt="Role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+%7C+Computer+Vision+%7C+YOLOv8;Full+Stack+%7C+React+%7C+Node.js;HackerRank+5+%E2%98%85+Problem+Solver;Open+to+SDE+Internships+%F0%9F%9A%80" alt="Typing"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=620&lines=Python+%7C+Computer+Vision+Engineer;Full+Stack+Web+Developer;YOLOv8+%7C+OpenCV+%7C+MediaPipe;HackerRank+5+%E2%98%85+Problem+Solver;Open+to+SDE+Internships+%F0%9F%9A%80" alt="Typing"/>
+  <img src="https://img.shields.io/badge/B.Tech%20IT-PSIT%20Kanpur-7c3aed?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Batch-2023--2027-0077B5?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Kanpur%2C%20India-FF6B6B?style=flat-square"/>
 </p>
 
 ---
